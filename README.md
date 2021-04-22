@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @duszaczek
+- 👀 I’m interested in playing minecraft
+- 🌱 I’m currently learning .lua launguage
